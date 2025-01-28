@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hey 👋 there is the obvious profile.<br>Not advanced 😞 programmer, self taught on the internet,<br>And some AI written codes with my idea behind it 😁.<br>currently working on  private repos for client for the time being, the big reveal is not gonna be so 🔜 soon.<br>Python main language, Julian is next in mind for performance issue of python.<br>Well sorry 😔 for the private repo, I will be in touch with any one.<br>
+Working on real life based driving simulation game using python, I know people say can you even do that ? guess what I am so buckle up this is gonna be my daily life journey, anyone can help me out just  fork it and let's do this together.
 
 
 ## 🌐 Socials:
